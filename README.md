@@ -25,3 +25,38 @@ An interactive bar chart of borough-level absence, filterable by period, school 
 
 Limitations
 The analysis is observational and cannot establish causation. The timing mismatch between termly attendance data and annual bus usage data is a significant constraint. Missing data for approximately one third of local authorities was not random, which limits generalisability. The study covers Home Counties local authorities only, reflecting local knowledge that the policy was more consistently enforced in those areas.
+
+Data Sources/Links (correct as of February 2026)
+
+School Attendance
+Autumn 2022-23
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/4caacb6e-434c-4f49-bb15-5e7e02cc20bb
+Spring 2022-2023
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/89db45b0-aa87-475c-aee1-1ea22cf6db14
+Summer 2022-2023
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/ed0a4df7-4310-4e81-8fdc-05bce2ef6ad9
+autumn 2023-2024
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/3273d4ff-1ea1-4ee6-b935-c89079fbfb01
+spring 2023-2024
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/62f500ba-a6f9-4570-8283-3d4465e45923
+summer 2023-2024
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/8ba277ea-0dae-4544-9c29-08e8320bce97
+autumn 2024-2025
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/5deec375-12e8-48d9-95ae-b6e52e486ec2
+spring 2024-2025
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/4463ab3e-d45e-48a7-be7a-1d6d4a1daa11
+summer 2024-2025
+https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/f18b1a03-0c47-4f1c-bcb6-ba58f31aca37
+
+other datasets
+
+Car usage
+https://www.ons.gov.uk/datasets/TS045/editions/2021/versions/4
+Bus usage
+https://www.gov.uk/government/statistical-data-sets/bus-statistics-data-tables?utm_source=chatgpt.com
+urban/rural
+https://www.data.gov.uk/dataset/bb9553f2-74a6-46b8-b77c-0ec6b61acd1e/rural-urban-classification-2021-of-local-authority-districts-2021-in-ew?utm_source=chatgpt.com
+IMD
+https://www.gov.uk/government/statistics/english-indices-of-deprivation-2025
+LA codes
+https://www.data.gov.uk/dataset/2ea56d0b-131a-484c-b1c8-36f41189cc5a/local-authority-districts-december-2021-boundaries-ew-buc-and-rural-urban-classification
